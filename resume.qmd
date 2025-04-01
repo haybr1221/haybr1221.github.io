@@ -1,53 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hayley Branchflower's CV
 ---
-# Isaac Newton
+# Hayley Branchflower
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hbranchflower@gmail.com">hbranchflower@gmail.com</a>
+| <a href="https://www.linkedin.com/in/hbranchflower/">My LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at Brigham Young University – Idaho. 
 
-### Specialized in
+### Majoring in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software Engineering
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Psychology
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2022-2026`
+__Brigham Young University – Idaho__
 
 
+## Activities and Societies
 
-## Awards
+`2025`
+Secretary, *Society of Women in Engineering*, Rexburg, ID
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Member, *Computing Society*, Rexburg, ID
 
 
 
@@ -73,16 +62,11 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023-present`
+__BYU-Idaho Career Center__, Rexburg, ID
 
-- Warden
+- Data Entry Specialist
 - Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
